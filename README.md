@@ -26,6 +26,7 @@ Alguns de meus projetos:
 
 |    Nome do Projeto  | Notebook ou Link    | Tecnologias  | Observação  | 
 | ------------        | ------------        | ------------ |------------ |
+| *Otimização de Programa de Cashback* | [cashback-optimization](https://github.com/willtrash/cashback-optimization) | Python, SQL, Power BI | Análise end-to-end de um programa de cashback usando Python, DuckDB e Power BI. O projeto simula janelas de validade, segmenta clientes e quantifica o impacto incremental de cada extensão. |
 | *Segmentação de Usuários e Análise de Compras* | [Everything-Plus](https://github.com/willtrash/projeto-e-commerce) | Python, EDA, Tableau| usei **EDA**, segmentação de usuários (**Python**) e criei um **dashboard** usando **Tableau** para gerar insights de ofertas e estratégias de marketing. |
 | *Análise de um Banco de Dados de Leitura* | [SQL Book Project](https://github.com/willtrash/SQL-Book-Project) | SQL, Python | usei **Python** para conectar ao banco de dados PostgreSQL e realizei consultas **SQL** para analisar o comportamento dos usuários, padrões de classificação, e a popularidade de livros, autores e editoras. |
 | *Análise de Teste A/B de Sistema de Recomendação* | [Recommender-System-Test](https://github.com/willtrash/Recommender-System-Test) | Pyhton, A/B Test | análise de **teste A/B** que avaliou a introdução de um sistema de recomendação. O objetivo foi verificar se o modelo gerou aumento de ao menos 10% nas conversões dentro de 14 dias após o cadastro. |
